@@ -22,13 +22,13 @@ The code requires `python>=3.8`, as well as `pytorch>=1.7` and `torchvision>=0.8
 Install Segment Anything:
 
 ```
-pip install git+https://github.com/facebookresearch/segment-anything.git
+pip install git+https://github.com/3dlg-hcvc/segment-anything.git
 ```
 
 or clone the repository locally and install with
 
 ```
-git clone git@github.com:facebookresearch/segment-anything.git
+git clone git@github.com:3dlg-hcvc/segment-anything.git
 cd segment-anything; pip install -e .
 ```
 
